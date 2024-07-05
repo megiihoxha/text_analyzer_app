@@ -4,7 +4,6 @@ Users can register, log in, analyze text, and view their analysis logs.
 
 Installation
 Clone the repository:
-
 git clone https://github.com/megiihoxha/text_analyzer_app.git
 cd text_analyzer_app
 
