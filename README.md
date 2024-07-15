@@ -15,7 +15,7 @@ python -m venv venv <br>
 source venv/bin/activate
 
 ## Install the required packages:
-pip install
+pip install -r requirements.txt
 
 
 ## Apply database migrations:
